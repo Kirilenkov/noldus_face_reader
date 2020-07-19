@@ -1,0 +1,34 @@
+Video analysis state log
+
+Face Model:	General
+Calibration:	-
+Start time:	7/19/2020 21:09:28.639
+Filename:	\Recorded Videos\Participant 2_Analysis 1_20200719_210928.mp4
+Frame rate:	30.00
+
+Video Time	Emotion
+00:00:00.000	Unknown
+00:00:01.066	Neutral
+00:00:38.033	Disgusted
+00:00:40.000	Neutral
+00:00:58.466	Sad
+00:01:03.400	Neutral
+00:01:08.166	Surprised
+00:01:10.933	Neutral
+00:01:13.533	Surprised
+00:01:14.566	Neutral
+00:01:18.333	Happy
+00:01:22.200	Neutral
+00:01:26.600	Angry
+00:01:36.133	Neutral
+00:02:11.033	Sad
+00:02:11.700	Neutral
+00:02:31.133	Angry
+00:02:37.500	Neutral
+00:02:38.500	Happy
+00:02:45.100	Neutral
+00:02:50.133	Disgusted
+00:02:55.266	Neutral
+00:03:06.700	Angry
+00:03:08.466	Neutral
+00:03:16.166	END

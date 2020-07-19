@@ -1,0 +1,9 @@
+Absolute participant group results
+
+Project:	test_1
+Analysis time:	7/19/2020 21:19:29.318
+
+All Participants	( N = 2 )
+
+Stimulus/Event Marker	N	Neutral Mean	Neutral Stdev	Happy Mean	Happy Stdev	Sad Mean	Sad Stdev	Angry Mean	Angry Stdev	Surprised Mean	Surprised Stdev	Scared Mean	Scared Stdev	Disgusted Mean	Disgusted Stdev	Valence Mean	Valence Stdev	Arousal Mean	Arousal Stdev
+All Analyses	2	0.602889200	0.057483320	0.054383010	0.012147860	0.049972270	0.002976598	0.125794300	0.042321840	0.066701960	0.000920347	0.003050129	0.001345405	0.040282320	0.001481753	-0.128535300	0.039242850	0.383178400	0.002965078
